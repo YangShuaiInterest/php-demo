@@ -1,5 +1,4 @@
 <?php
-//branch dev2 修改
 //初始化文件编码
 header("Content-Type: text/html;charset=utf-8");
 
