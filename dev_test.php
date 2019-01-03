@@ -1,4 +1,5 @@
 <?php
+//master 分支
 //初始化文件编码
 header("Content-Type: text/html;charset=utf-8");
 
